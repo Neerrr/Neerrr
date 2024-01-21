@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neerrr
+- 👋 Hi, I’m Newbie here
 - 👀 I’m interested in Programming and game design
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
